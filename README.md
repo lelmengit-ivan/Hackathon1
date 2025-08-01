@@ -24,7 +24,7 @@ This repository contains the source code for Ivan Lelmengit's professional portf
 
 - **Frontend**: HTML5, CSS3
 - **Version Control**: Git
-- **Hosting**: Github
+- **Hosting**: Netlify
 
 ## Sections
 
@@ -48,7 +48,7 @@ This repository contains the source code for Ivan Lelmengit's professional portf
 
 ## Live Demo
 
-[View Live Portfolio](#) (https://lelmengit-ivan.github.io/Hackathon1/)
+[View Live Portfolio](#) (https://688d142750d8eb8dbdce286a--coruscating-paprenjak-b3c991.netlify/)
 
 ## Contact
 
