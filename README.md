@@ -48,7 +48,7 @@ This repository contains the source code for Ivan Lelmengit's professional portf
 
 ## Live Demo
 
-[View Live Portfolio](#) (https://688d142750d8eb8dbdce286a--coruscating-paprenjak-b3c991.netlify.app)
+[View Live Portfolio](#) (https://coruscating-paprenjak-b3c991.netlify.app/)
 
 ## Contact
 
